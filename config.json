@@ -1,6 +1,6 @@
 {
   "osm": {
-    "LogOsmRequests": true,
-    "LogOsmResponse": false
+    "log_osm_requests": true,
+    "log_osm_response": false
   }
 }
