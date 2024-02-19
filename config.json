@@ -1,4 +1,4 @@
 {
-  "LogOsmRequests": true,
-  "LogOsmResponse": false
+  "logOsmRequests": true,
+  "logOsmResponse": false
 }
